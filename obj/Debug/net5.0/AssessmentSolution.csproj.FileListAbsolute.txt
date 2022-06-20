@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\AssessmentSolution\obj\Debug\net5.0\AssessmentSolution.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\AssessmentSolution\obj\Debug\net5.0\AssessmentSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\AssessmentSolution\obj\Debug\net5.0\AssessmentSolution.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\AssessmentSolution\obj\Debug\net5.0\AssessmentSolution.AssemblyInfo.cs
+C:\Users\Hp\Desktop\AssessmentSolution\obj\Debug\net5.0\AssessmentSolution.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\AssessmentSolution\bin\Debug\net5.0\AssessmentSolution.exe
+C:\Users\Hp\Desktop\AssessmentSolution\bin\Debug\net5.0\AssessmentSolution.deps.json
+C:\Users\Hp\Desktop\AssessmentSolution\bin\Debug\net5.0\AssessmentSolution.runtimeconfig.json
+C:\Users\Hp\Desktop\AssessmentSolution\bin\Debug\net5.0\AssessmentSolution.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\AssessmentSolution\bin\Debug\net5.0\AssessmentSolution.dll
+C:\Users\Hp\Desktop\AssessmentSolution\bin\Debug\net5.0\ref\AssessmentSolution.dll
+C:\Users\Hp\Desktop\AssessmentSolution\bin\Debug\net5.0\AssessmentSolution.pdb
+C:\Users\Hp\Desktop\AssessmentSolution\obj\Debug\net5.0\AssessmentSolution.dll
+C:\Users\Hp\Desktop\AssessmentSolution\obj\Debug\net5.0\ref\AssessmentSolution.dll
+C:\Users\Hp\Desktop\AssessmentSolution\obj\Debug\net5.0\AssessmentSolution.pdb
+C:\Users\Hp\Desktop\AssessmentSolution\obj\Debug\net5.0\AssessmentSolution.genruntimeconfig.cache
